@@ -1,0 +1,9 @@
+[submodule "EDK2"]
+	path = EDK2
+	url = https://github.com/tianocore/edk2
+[submodule "EDK2-LIBC"]
+	path = EDK2-LIBC
+	url = https://github.com/tianocore/edk2-libc
+[submodule "CdePkg"]
+	path = CdePkg
+	url = https://github.com/KilianKegel/CdePkg.git
